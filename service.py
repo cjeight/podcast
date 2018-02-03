@@ -1,3 +1,4 @@
+# python 3.6
 from xml.etree import ElementTree
 from collections import namedtuple
 
