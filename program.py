@@ -1,4 +1,5 @@
 # Python 3.6
+
 import service
 import random
 
